@@ -26,7 +26,3 @@ You can find the button detection map and more details in the code files.
 ## Contributions
 
 Contributions are welcome! Feel free to submit pull requests or open issues if you have any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
