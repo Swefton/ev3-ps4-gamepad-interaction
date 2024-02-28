@@ -5,7 +5,5 @@ Allows for the control of a lego ev3 through a PS4 controller.
 
 
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/HsgmPsvvO7Q?si=N3bWtYhQy-lAhGQ9" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Alt text](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+
