@@ -14,14 +14,13 @@ Click the image above to watch the video demonstration.
 
 ## Button Detection Map
 
-You can find the button detection map and more details in the code files.
+You can find the button detection map and more details in under wepages.
 
 ## Usage
 
 1. Clone this repository.
-2. Follow the instructions in the code files to set up your Lego EV3 and PS4 controller.
-3. Run the provided code on your Lego EV3 device.
-4. Enjoy controlling your Lego EV3 with the PS4 controller!
+2. Modify main.py to use modules specific to your project. [button maps and resources]([path/to/your/code/file.py](https://github.com/Swefton/ev3-ps4-gamepad-interaction/blob/main/webpages))
+3. Enjoy controlling your Lego EV3 with the PS4 controller!
 
 ## Contributions
 
